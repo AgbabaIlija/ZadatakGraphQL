@@ -1,12 +1,12 @@
 Kako pokrenuti projekat
 
-1.Potrebni alati:
+1. Potrebni alati:
 
 Node.js
 npm (dolazi uz Node.js)
 Git (opciono, za kloniranje projekta)
 
-2.Pokretaanje servera komandom u terminalu:
+2. Pokretaanje servera komandom u terminalu:
 node index.js
 
 Ako je sve ispravno podešeno, sledeća poruka se nalazi u terminalu:
