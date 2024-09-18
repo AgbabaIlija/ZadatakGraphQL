@@ -7,7 +7,7 @@ Kako pokrenuti projekat
  - Git (opciono, za kloniranje projekta)
 
 2. Pokretaanje servera komandom u terminalu:
-node index.js
+ - node index.js
 
 Ako je sve ispravno podešeno, sledeća poruka se nalazi u terminalu:
 Server ready at http://localhost:4000
