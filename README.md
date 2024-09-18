@@ -10,9 +10,9 @@ Kako pokrenuti projekat
  - node index.js
 
 Ako je sve ispravno podešeno, sledeća poruka se nalazi u terminalu:
-Server ready at http://localhost:4000
+"Server ready at http://localhost:4000"
 
-Ctrl + Levi klik vodi na Apollo server stranicu
+ - Ctrl + Levi klik vodi na Apollo server stranicu
 
 Na Apollo server stranici u sredini ekrana se nalazi dugme pod nazivom "Query your server" i klikom na to dugme otvara se sandbox za testiranje projekta
 
